@@ -1,98 +1,52 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Tic Tac Toe JS" />
-
-  &#xa0;
-
-  <!-- <a href="https://tictactoejs.netlify.app">Demo</a> -->
+  <img src="https://user-images.githubusercontent.com/72886481/128567130-362fdb84-b186-43b1-a13c-e43151bb8b63.png" alt="Jogo da Velha (Empate)" />
 </div>
 
-<h1 align="center">Tic Tac Toe JS</h1>
+<h1 align="center">Jogo da Velha - JS</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/tic-tac-toe-js?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/tic-tac-toe-js?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/tic-tac-toe-js?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/tic-tac-toe-js?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/tic-tac-toe-js?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/tic-tac-toe-js?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/tic-tac-toe-js?color=56BEB8" /> -->
-</p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Tic Tac Toe JS 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="#dart-about">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Pré Requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Para começar</a> &#xa0; | &#xa0;
+  <a href="https://github.com/beasantanar" target="_blank">Autor</a>
 </p>
 
 <br>
 
-## :dart: About ##
+## :dart: Sobre
 
-Describe your project
+O projeto faz parte do Desafio 7 projetos em 7 dias – Edição JavaScript da B7Web. <br>
+Este é o projeto de número 4, um jogo da velha com opção de reset, informações de quem é a vez na rodada e do resultado do jogo na guia “Vencedor”, sendo estes: Quem ganhou (X ou O) ou se o houve empate no jogo.
 
-## :sparkles: Features ##
+## :rocket: Tecnologias
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+As ferramentas a seguir foram usadas na construção do projeto:
 
-## :rocket: Technologies ##
+- [HTML](https://devdocs.io/html/)
+- [CSS](https://devdocs.io/css/)
+- [Javascript](https://devdocs.io/javascript/)
 
-The following tools were used in this project:
+## :white_check_mark: Pré Requisitos
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+Antes de começar 🏁, você precisa ter o [Git](https://git-scm.com) instalado em sua máquina.
 
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-
-## :checkered_flag: Starting ##
+## :checkered_flag: Para começar
 
 ```bash
-# Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/tic-tac-toe-js
+# Clone o projeto
+$ git clone https://github.com/beasantanar/tic-tac-toe-js
 
-# Access
+# Acesse a pasta
 $ cd tic-tac-toe-js
 
-# Install dependencies
-$ yarn
+# Clique com o botão direito no arquivo index.html
 
-# Run the project
-$ yarn start
+# Escolha o opção de "Abrir com o Live Server"
 
-# The server will initialize in the <http://localhost:3000>
+# O projeto será iniciado em <http://127.0.0.1:5500/tic-tac-toe-js/index.html>
 ```
 
-## :memo: License ##
+<p align="center">Feito por <a href="https://github.com/beasantanar" target="_blank">Beatriz Santana</a></p>
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
+<p align="center"><a href="#top">Volte para o início</a></p>
