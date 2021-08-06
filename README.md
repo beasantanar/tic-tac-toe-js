@@ -1,8 +1,8 @@
+<h1 align="center">Jogo da Velha - JS</h1>
+
 <div align="center" id="top"> 
   <img src="https://user-images.githubusercontent.com/72886481/128567130-362fdb84-b186-43b1-a13c-e43151bb8b63.png" alt="Jogo da Velha (Empate)" />
 </div>
-
-<h1 align="center">Jogo da Velha - JS</h1>
 
 <p align="center">
   <a href="#dart-about">Sobre</a> &#xa0; | &#xa0; 
